@@ -12,6 +12,22 @@ int main() {
 
     cout << (seven / two) << endl;
 
+    // Other possible solutions:
+
+        // Alternative #1:
+            /* int seven = 7;
+            int two = 2;
+
+            cout << ((double) seven / (double) two ) << endl;
+            */
+
+        // Alternative #2:
+            /* string seven = "7";
+            string two = "2";
+
+            cout << ( stod(seven) / stod(two) );
+            */
+
     return 0;
 
 }
