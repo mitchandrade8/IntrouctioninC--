@@ -10,10 +10,16 @@ int main(int argc, char** argv) {
   
   //add code below this line
 
-  
+  if ((x == "a") || (x == "e") || (x == "i") || (x == "o") || (x == "u")) {
+    cout << x + " is a vowel";
+  } else {
+    cout << x + " is not a vowel";
+  }
 
   //add code above this line
   
   return 0;
   
-} 
+}
+
+// Got the same solution as Codio!!!
