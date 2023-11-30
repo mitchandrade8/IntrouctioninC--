@@ -23,3 +23,28 @@ int main(int argc, char** argv) {
   return 0;
   
 }
+
+
+// Another Solution 
+
+/* int num;
+
+  if (x == "red") {
+    num = 1;
+  }
+  else if (x == "blue") {
+    num = 2;
+  }
+  else if (x == "yellow") {
+    num = 3;
+  }
+  else {
+    num = 0;
+  }
+  
+  switch (num) {
+    case 1: cout << x + " is a primary color"; break;
+    case 2: cout << x + " is a primary color"; break;
+    case 3: cout << x + " is a primary color"; break;
+    default: cout << x + " is not a primary color";
+  }*/
