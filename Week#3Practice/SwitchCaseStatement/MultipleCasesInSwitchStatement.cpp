@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 
     int month = 2;
-    int year = 2000;
+    int year = 2024;
     int numDays = 0;
 
     switch (month) {
