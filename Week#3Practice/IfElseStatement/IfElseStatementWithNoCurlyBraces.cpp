@@ -13,3 +13,6 @@ int main() {
     return 0;
 
 }
+
+// MARK: - Not good practice 
+    // Should always have curly braces
