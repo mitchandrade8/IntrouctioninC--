@@ -26,3 +26,23 @@ int main() {
     return 0;
 
 }
+
+// More Notes:
+
+/* 
+A 
+while
+ loop usually contains a boolean expression(s) in its header and nothing else.
+
+A 
+for
+ loop contains a header that specifies where an iterator variable starts, where it ends, and how it is changed per iteration.
+
+A 
+for
+ loop is better if a command needs to be executed a certain number of times.
+
+A counting variable needs to be declared and initialized before a 
+while
+ loop can be executed properly.
+*/
