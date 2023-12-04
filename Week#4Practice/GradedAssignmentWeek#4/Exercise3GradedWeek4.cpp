@@ -37,6 +37,18 @@ int main(int argc, char** argv) {
 
 /*
 int sum = 0;
+int iter = a;
+
+while (iter <= b) {
+    sum += iter;
+    iter++;
+}
+
+if (a == b) {
+    sum = a;
+}
+
+cout << sum << endl;
 
 
 */
